@@ -1,3 +1,9 @@
+GHC v9.2.7:
+  . Binary package based on 'https://downloads.haskell.org/~ghc/9.2.7/ghc-9.2.7-src.tar.xz'
+  . Compiled with LLVM/Clang 16.0.0 + GHC 9.2.7
+  . Download link: 'https://github.com/uidops/ghc-musl/releases/download/9.2.7-clang/ghc-bin-9.2.7-x86_64-gentoo-linux-musl.tar.xz'
+
+
 GHC v9.2.6:
   . Binary package based on 'https://downloads.haskell.org/~ghc/9.2.6/ghc-9.2.6-src.tar.xz'
   . Compiled with LLVM/Clang 15.0.7 + GHC 9.2.6
